@@ -1,0 +1,10 @@
+   
+   FOR  -- Nos sirve para repetir "n" veces la misma instrucción, hasta que se cumpla la condición definida en la instrucción.
+
+&& (Y)  -- Es un operador logico que nos sirve para hacer comparaciones y si las dos son verdaderas tendremos un resultado
+           verdadero, mientras alguna de las dos sea falsa siempre se tendra un resultado falso. 
+
+|| (o)  -- Es un operador logico que nos sirve para hacer comparaciines y si las dos son falsas tendremos un resultado falso,
+           mientras alguna de las dos sea verdadera siempre se tendra un resultado verdadero.
+
+ ! (no) -- Es un operador logico que nosr sive para negar cualquier declaración sin importar que sea verdadera o falsa.
